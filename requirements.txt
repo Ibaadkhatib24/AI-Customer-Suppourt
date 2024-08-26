@@ -1,0 +1,13 @@
+Flask
+Flask-CORS
+langchain-community
+scikit-learn
+pinecone-client
+openai
+tiktoken
+python-dotenv
+gunicorn
+langchain_pinecone
+langchain_openai
+numpy
+pytube
